@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "976384319502",
+    "project_id": "playflow-rockeseat-aula03",
+    "storage_bucket": "playflow-rockeseat-aula03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976384319502:android:e53e942c4d154cfd6c9c5f",
+        "android_client_info": {
+          "package_name": "com.example.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976384319502-o9l3f8m9b22tektj14vlen3rdmh79mtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "42ae1c78e5d6a39e2f04a4655531aa0805b5a1df"
+          }
+        },
+        {
+          "client_id": "976384319502-h5bbe66h11djd464e65jbtqqmhgkrmie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeG4Mbet4_EDy6XBp2Lf6TSaG-OithQF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976384319502-h5bbe66h11djd464e65jbtqqmhgkrmie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
